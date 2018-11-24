@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InventoryApp1</string>
+    <string name="add_product">Add New Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="products">Headphone, Mobile, Books...</string>
+    <string name="product_price">Price</string>
+    <string name="price">10, 20, 30...</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="quantity">1, 2, 3...</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="supplier_phone_number">Supplier Phone Number</string>
+    <string name="phone_number">1234567890</string>
+    <string name="supplier_unknown">Unknown</string>
+    <string name="supplier_amazon">Amazon</string>
+    <string name="supplier_flipkart">Flipkart</string>
+    <string name="supplier_snapdeal">Snapdeal</string>
+    <string name="action_save">Save</string>
+</resources>
